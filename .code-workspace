@@ -16,5 +16,13 @@
 			"name": "ansible-devspaces",
 			"path": "/projects/ansible-devspaces"
 		}
-	]
+	],
+    "extensions": {
+		"recommendations": [
+			"redhat.ansible",
+			"redhat.vscode-yaml",
+			"redhat.vscode-openshift-connector",
+			"ms-python.python"
+		]
+	}
 }
