@@ -9,12 +9,17 @@
         "files.trimFinalNewlines": true,
         "files.insertFinalNewline": true,
         "ansible.validation.lint.arguments": "--profile production --offline",
-        "openshiftToolkit.showWelcomePage": false
+        "openshiftToolkit.showWelcomePage": false,
+		"editor.wordWrap": "on",
+		"files.autoSave": "off"
 	},
 	"folders": [
 		{
 			"name": "ansible-devspaces",
 			"path": "/projects/ansible-devspaces"
+		},
+		{
+			"path": "../tmp/ansible-devspaces"
 		}
 	],
     "extensions": {
