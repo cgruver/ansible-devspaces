@@ -3,14 +3,6 @@ attributes:
   controller.devfile.io/storage-type: per-workspace
 metadata:
   name: ansible-devspaces
-projects:
-  - name: ansible-devspaces
-    git:
-      remotes:
-        origin: https://github.com/redhat-cop/ansible-devspaces.git
-      checkoutFrom:
-        remote: origin
-        revision: main
 components:
   - name: dev-tools
     container:
