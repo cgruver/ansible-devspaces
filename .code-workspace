@@ -17,9 +17,6 @@
 		{
 			"name": "ansible-devspaces",
 			"path": "/projects/ansible-devspaces"
-		},
-		{
-			"path": "../tmp/ansible-devspaces"
 		}
 	],
     "extensions": {
