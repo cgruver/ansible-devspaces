@@ -1,6 +1,6 @@
 # Experimental project for enabling systemd containers in OpenShift Dev Spaces
 
-__Note:__ The manifests for creating the container image used in this workspace are located in the `root-workspace-image` directory.
+__Note:__ The manifests for creating the container image used in the systemd enabled workspace are located in the `workspace-image-systemd-enabled` directory.
 
 ## Apply the following MachineConfig to enable RW cgroups
 
